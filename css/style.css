@@ -249,8 +249,8 @@ img {vertical-align: middle;}
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: 1fr;
 	background:black;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 #circle1, #circle2, #circle3, #circle4{
 	background-image: url(../images/airplane.jpg);
