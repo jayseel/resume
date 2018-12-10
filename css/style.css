@@ -151,7 +151,9 @@ h6{
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-rows: 1fr;
 }
-
+#links{
+	transition:all .3s ease;
+}
 #links:hover{
 	opacity: 0.6;
 }
