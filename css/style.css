@@ -171,6 +171,7 @@ h6{
 	line-height:30px;
 	background: black;
 	padding: 50px;
+	transition:all .3s ease;
 }
 #par:hover{
 	background-image: url(../images/ate.jpg);
@@ -262,6 +263,7 @@ img {vertical-align: middle;}
 	padding: 50px;
 	margin-top: 80px;
 	margin-bottom: 80px;
+	transition:all .3s ease;
 }	
 #circle1:hover{
 	background-image: url(../images/s.jpg);
